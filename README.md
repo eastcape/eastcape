@@ -1,1 +1,1 @@
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=https://open.spotify.com/track/7HbZwJf5YMsrlMAf4E4f07?si=407be8e3b9814b53&cover_image=true&theme=default)](https://open.spotify.com/user/https://open.spotify.com/track/7HbZwJf5YMsrlMAf4E4f07?si=407be8e3b9814b53)
+<img width="2416" height="2765" alt="Az_sans" src="https://github.com/user-attachments/assets/5052418a-25f8-455c-a89e-0c3705ab1506" />
