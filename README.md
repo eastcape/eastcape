@@ -8,3 +8,6 @@
 <p align="center">
 I wanna taste a little bit of everything but it gets me in trouble. To fill my plate with the vacant and obscene, with my nerves exposed.
   </a>
+<p align="center">
+ <img width="500" alt="wyo23" src="https://github.com/user-attachments/assets/87b89dd7-7eb9-4a04-a47c-d7c3531814e6" />
+</p>
