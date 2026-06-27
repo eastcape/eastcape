@@ -1,13 +1,7 @@
 <p align="center">
-i'm having sadness tonight
+  <a href="https://open.spotify.com/track/0iOtin9ThAaHDGfF026qXv?si=2870d5b36fc04bcf">
+   I WOULD HATE YOU IF I COULD
+  </a>
 <p align="center">
-  <img width="500" height="572" alt="Az_sans" src="https://github.com/user-attachments/assets/e949e006-e5fa-4e81-9209-dfcff7ffe22f" />
-</p>
-
-
-<p align="center">
-<img width="300" height="226" alt="ezgif-3f29461739901275" src="https://github.com/user-attachments/assets/a807a2fa-891b-4433-9137-40bb46b92ef2" /> <img width="350" height="226" alt="2025-11-02_214652d" src="https://github.com/user-attachments/assets/d6a85129-b2af-4b7a-9907-c0cda9610326" /> 
-<img width="339" height="226" alt="IMG_20260602_223256" src="https://github.com/user-attachments/assets/1df183d3-7207-4181-9153-03df244a056b" />
-<img width="226" height="226" alt="lv_0_20250313173053" src="https://github.com/user-attachments/assets/90e24887-0e5f-4af3-b5a5-755d2470fb98" />
-
+ <img width="400"  alt="danvey&#39;26" src="https://github.com/user-attachments/assets/9d7d48bc-91d0-40d3-b192-5958e86dc8a3" />
 </p>
