@@ -47,5 +47,5 @@
 
 <!-- Second image -->
 <p align="center">
-<img width="700" alt="danvey 3" src="https://github.com/user-attachments/assets/bd9b6bd5-33e3-41d2-8bcf-d9839f424341" />
+<img width="600" alt="danvey 3" src="https://github.com/user-attachments/assets/bd9b6bd5-33e3-41d2-8bcf-d9839f424341" />
 </p>
