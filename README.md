@@ -45,9 +45,7 @@
 </p>
 
 
+<!-- Second image -->
 <p align="center">
-  <em>
-    I wanna taste a little bit of everything but it gets me in trouble.<br>
-    To fill my plate with the vacant and obscene, with my nerves exposed.
-  </em>
+<img width="700" alt="danvey 3" src="https://github.com/user-attachments/assets/bd9b6bd5-33e3-41d2-8bcf-d9839f424341" />
 </p>
